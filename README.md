@@ -5,4 +5,4 @@ Notes for Tech-Elevator
 
 **Important Terms**
 
-- [Neural Network](history_of_ai/important_terms.md)
+- [Neural Network](Pre-Course/History_of_AI/Important_Terms.md)
