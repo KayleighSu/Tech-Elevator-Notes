@@ -23,3 +23,14 @@ Notes for Tech-Elevator
     - Provide Context
     - Provide Limitations
 
+## Algorithms
+
+**Important Terms**
+
+- [Algorithm](Pre-Course/Algorithms/Important_Terms.md)
+- [Process Diagrams](Pre-Course/Algorithms/Important-Terms.md)
+
+**General Notes**
+- [Leveraging AI](Pre-Course/Algorithms/General_Notes.md)
+    - Do Use AI Tools To:
+    - Don't Use AI Tools To:
