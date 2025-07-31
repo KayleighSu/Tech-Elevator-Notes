@@ -1,7 +1,9 @@
 # Tech-Elevator-Notes
 Notes for Tech-Elevator
 
-## Pre-Course:
+# Pre-Course:
+
+## History of AI
 
 **Important Terms**
 
@@ -14,3 +16,10 @@ Notes for Tech-Elevator
 - [Generative AI](Pre-Course/History_of_AI/Important_Terms.md)
 - [Generative AI 2](Pre-Course/History_of_AI/Important_Terms.md)
 - [Hallucinations](Pre-Course/History_of_AI/Important_Terms.md)
+
+**General Notes**
+- [Leveraging AI to Learn](Pre-Course/History_of_AI/General_Notes.md)
+    - Suggested Practices
+    - Provide Context
+    - Provide Limitations
+
