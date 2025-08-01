@@ -25,3 +25,11 @@
 - Read through the problem and put it into your own words. If you don't understand the problem itself, ask the AI to help you clarify the problem. Be sure to tell it not to solve the problem for you, just to help you understand it better.
 - Think through and outline the steps of the algorithm. **It is important to work through this on part on your own - this is the key skill you want to develop in this unit**
 - Once steps are outlined, ask AI to validate it before you take the time to put it into a process diagram. Ask it to critique.
+
+# Subprocesses:
+
+Subprocesses are smaller processes that focus on performing one logical task. Using them in an algorithm offers many advantages, as subrocesses break down a large process to make it more manageable, reduce the complexity of the main process by hiding the detail steps, promote reuse within the same process and in other processes, and are independently verifiable.
+
+*Objects:*
+
+When you want to refer to an object's property, use a colon to indicate which property you're referencing. For example, if you want to reference a person's name, you could use *Person: Name.* "Person" is the object, and "Name" is the object's property. Object properties are special veriables because the belong to an object. This relationship means that an object property can also be another object that has its own properties. This process could go on and on, as objects can become quite complex.
