@@ -55,3 +55,25 @@ Notes for Tech-Elevator
 **General Notes**
 
 - [Decisions](Pre-Course/Decisions/General_Notes.md)
+
+## Intro to JavaScript
+
+**Important Terms**
+
+- [Intro_to_JavaScript](Pre-Course/Intro_To_JavaScript/Important_Terms/)
+    - [Intro](Pre-Course/Intro_To_JavaScript/Important_Terms/1.%20Intro.md)
+    - [Functions](Pre-Course/Intro_To_JavaScript/Important_Terms/2.%20Functions.md)
+    - [Expressions](Pre-Course/Intro_To_JavaScript/Important_Terms/3.%20Expressions.md)
+    - [Arrays](Pre-Course/Intro_To_JavaScript/Important_Terms/4.%20Arrays.md)
+    - [Conditional_Logic](Pre-Course/Intro_To_JavaScript/Important_Terms/5.%20Conditional%20Logic.md)
+    - [Loops](Pre-Course/Intro_To_JavaScript/Important_Terms/6.%20Loops.md)
+
+**General Notes**
+
+- [Intro_to_JavaScript](Pre-Course/Intro_To_JavaScript/General_Notes/)
+    - [Intro](Pre-Course/Intro_To_JavaScript/General_Notes/1.%20Intro.md)
+    - [Functions](Pre-Course/Intro_To_JavaScript/General_Notes/2.%20Functions.md)
+    - [Expressions](Pre-Course/Intro_To_JavaScript/General_Notes/3.%20Expressions.md)
+    - [Arrays](Pre-Course/Intro_To_JavaScript/General_Notes/4.%20Arrays.md)
+    - [Conditional_Logic](Pre-Course/Intro_To_JavaScript/General_Notes/5.%20Conditional%20Logic.md)
+    - [Loops](Pre-Course/Intro_To_JavaScript/General_Notes/6.%20Loops.md)
