@@ -34,3 +34,24 @@ Notes for Tech-Elevator
 - [Leveraging AI](Pre-Course/Algorithms/General_Notes.md)
     - Do Use AI Tools To:
     - Don't Use AI Tools To:
+
+## Decisions
+
+**Important Terms**
+
+- [Decisions](Pre-Course/Decisions/Important_Terms.md)
+    - Yes or No
+    - Adding a Yes or No Decision (Process)
+    - Something or Nothing
+    - One Thing or the Other
+    - Decisions with Multiple Criteria
+    - Multiple Decisions
+    - Loops
+    - Repeat While
+    - Repeat *n* Times
+    - Repeat for Each
+    - Bubble Sort
+
+**General Notes**
+
+- [Decisions](Pre-Course/Decisions/General_Notes.md)
